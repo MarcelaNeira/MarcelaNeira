@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola a todos 👋
 
 <!--
 **MarcelaNeira/MarcelaNeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄
+
+`Java` `POO` `HTML` `CSS` `JavaScript` 
